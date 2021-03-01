@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Mobilpay" uuid="1a2f7cb1-ec07-422d-bcf1-d4d9f850d730">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Laila A. Andersen\Mobilpay_Database\src\Mobilpay</jdbc-url>
+    </data-source>
+  </component>
+</project>
