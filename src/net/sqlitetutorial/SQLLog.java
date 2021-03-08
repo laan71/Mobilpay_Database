@@ -24,7 +24,6 @@ public class SQLLog {
             Date date = new Date(System.currentTimeMillis());
 
             bw.write("Date: " + formatter.format(date) + " - Query: " + method + " variable used " + variable);
-            // bw.write(System.lineSeparator());
             bw.newLine();
             bw.close();
         } catch (
