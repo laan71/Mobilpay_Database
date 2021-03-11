@@ -30,7 +30,7 @@ The database must include:
 ![2021-03-11 (4)](https://user-images.githubusercontent.com/54774020/110793169-9a365000-8274-11eb-8ffe-95bff1027840.png)
 
 
-# creat table Transaction_company_user
+# create table Transaction_company_user
 
 ![2021-03-11 (5)](https://user-images.githubusercontent.com/54774020/110794941-8ee42400-8276-11eb-8428-8df8f401e328.png)
 
