@@ -17,3 +17,10 @@ The database must include:
 * Create queries for (a) user creation (b) examples of payments. Document your queries in a .txt, and with screenshots.
 * Create a Java application that can list all users and all transactions.
 * Expand the application so that you can make payments.
+
+.................................................................................................................................................................................................................................................
+
+# ER Diagram
+
+![ER diagram Mobilpay1](https://user-images.githubusercontent.com/54774020/110781953-cba81f00-8266-11eb-9a3a-ad3f8c0a02c4.png)
+
