@@ -1,0 +1,30 @@
+Syslog
+
+Date: 2021-03-08 at 23:12:45 CET - Query: List of customers
+Date: 2021-03-08 at 23:14:03 CET - Query: List of customers
+Date: 2021-03-08 at 23:15:00 CET - Query: List of customers/n
+Date: 2021-03-08 at 23:15:14 CET - Query: List of customers/n
+Date: 2021-03-08 at 23:16:06 CET - Query: List of customers
+Date: 2021-03-08 at 23:16:19 CET - Query: List of customers
+Date: 2021-03-08 at 23:19:10 CET - Query: List of customersDate: 2021-03-08 at 23:19:10 CET - Query: List of transactions
+Date: 2021-03-08 at 23:20:34 CET - Query: List of customersDate: 2021-03-08 at 23:20:34 CET - Query: List of transactions
+Date: 2021-03-08 at 23:22:46 CET - Query: List of customers
+Date: 2021-03-08 at 23:22:46 CET - Query: List of transactions
+Date: 2021-03-08 at 23:22:52 CET - Query: List of customers
+Date: 2021-03-08 at 23:22:52 CET - Query: List of transactions
+Date: 2021-03-08 at 23:55:03 CET - Query: selectCustomers variable used none
+
+Date: 2021-03-08 at 23:55:03 CET - Query: selectTransaction_private_userss variable used none
+
+Date: 2021-03-08 at 23:56:23 CET - Query: selectCustomers variable used none
+Date: 2021-03-08 at 23:56:23 CET - Query: selectTransaction_private_users variable used none
+Date: 2021-03-08 at 23:56:36 CET - Query: selectCustomers variable used none
+Date: 2021-03-08 at 23:56:36 CET - Query: selectTransaction_private_users variable used none
+Date: 2021-03-08 at 23:57:03 CET - Query: selectCustomers variable used none
+Date: 2021-03-08 at 23:57:08 CET - Query: selectCustomers variable used none
+Date: 2021-03-09 at 00:00:37 CET - Query: selectCustomers variable used none
+Date: 2021-03-09 at 00:00:43 CET - Query: selectCustomers variable used none
+Date: 2021-03-09 at 00:00:59 CET - Query: selectCustomers variable used none
+Date: 2021-03-09 at 00:00:59 CET - Query: selectTransaction_private_users variable used transactionId = 5
+Date: 2021-03-09 at 00:02:07 CET - Query: selectCustomers variable used none
+Date: 2021-03-09 at 00:02:07 CET - Query: selectTransaction_private_users variable used none
