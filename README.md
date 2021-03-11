@@ -32,5 +32,5 @@ The database must include:
 
 # creat table Transaction_company_user
 
-![2021-03-11 (4)](https://user-images.githubusercontent.com/54774020/110794478-18472680-8276-11eb-9bae-2130af2ca28b.png)
+
 
