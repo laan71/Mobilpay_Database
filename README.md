@@ -35,4 +35,11 @@ The database must include:
 ![2021-03-11 (5)](https://user-images.githubusercontent.com/54774020/110794941-8ee42400-8276-11eb-8428-8df8f401e328.png)
 
 
+# Syslog
+
+![2021-03-11 (6)](https://user-images.githubusercontent.com/54774020/110795531-3eb99180-8277-11eb-96c7-b14badee4a4b.png)
+
+
+
+
 
