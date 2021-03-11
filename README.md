@@ -25,7 +25,12 @@ The database must include:
 ![ER diagram Mobilpay1](https://user-images.githubusercontent.com/54774020/110781953-cba81f00-8266-11eb-9a3a-ad3f8c0a02c4.png)
 
 
-# create table customer
+# create table Customer
 
 ![2021-03-11 (4)](https://user-images.githubusercontent.com/54774020/110793169-9a365000-8274-11eb-8ffe-95bff1027840.png)
+
+
+# creat table Transaction_company_user
+
+![2021-03-11 (4)](https://user-images.githubusercontent.com/54774020/110794478-18472680-8276-11eb-9bae-2130af2ca28b.png)
 
